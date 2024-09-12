@@ -1,0 +1,52 @@
+.table1{
+    color: white;
+    background-color: black;
+    padding: 20px;
+    position: relative;
+    left: -3vh;
+    bottom: 3vh;
+}
+.dash{
+    background-color: black;
+    padding-bottom: 5px;
+}
+*{
+    background-color: grey;
+
+}
+.subject{
+    width: 100px;
+    position: relative;
+    left: 30vh;
+    bottom: 80vh;
+}
+.title1{
+    background-color: violet;
+}
+.title2{
+    position: relative;
+    left: 35vh;
+    bottom: 17vh;
+}
+.title3{
+    position: relative;
+    left: 70vh;
+    bottom: 34vh;
+}
+.title4{
+    position: relative;
+    left: 105vh;
+    bottom: 50vh;
+}
+.letter1{
+    color: white;
+    position: relative;
+    left: 15vh;
+    bottom: 9vh;
+}
+.letter2{
+    color: white;
+    position: relative;
+    left: 50vh;
+    bottom: 25vh;
+}
